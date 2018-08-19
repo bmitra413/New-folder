@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Send</name>
+   <tag></tag>
+   <elementGuidId>b7cf80dc-be94-489b-aae5-17237793674d</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_42ft _4jy0 layerConfirm _2ok uiOverlayButton _4jy4 _4jy1 selected _51sy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;_4lh timelineLayout noFooter fbx _-kb _61s0 _605a n_webuiysd0 chrome webkit win x1 Locale_en_US&quot;]/div[@class=&quot;_10 _20y uiLayer _4-hy _3qw&quot;]/div[@class=&quot;_59s7&quot;]/div[@class=&quot;_4t2a&quot;]/div[1]/div[1]/div[@class=&quot;_20y&quot;]/div[3]/div[@class=&quot;_5lnf uiOverlayFooter _5a8u _59db&quot;]/table[@class=&quot;uiGrid _51mz uiOverlayFooterGrid&quot;]/tbody[1]/tr[@class=&quot;_51mx&quot;]/td[@class=&quot;_51m- uiOverlayFooterButtons _51mw&quot;]/button[@class=&quot;_42ft _4jy0 layerConfirm _2ok uiOverlayButton _4jy4 _4jy1 selected _51sy&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

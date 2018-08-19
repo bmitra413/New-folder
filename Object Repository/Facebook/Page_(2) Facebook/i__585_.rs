@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__585_</name>
+   <tag></tag>
+   <elementGuidId>718fc5fd-47fd-492e-995e-26f15d90c190</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_585_</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_7&quot;)/form[1]/div[@class=&quot;_5861&quot;]/button[@class=&quot;_42ft _4jy0 _4w98 _4jy3 _517h _51sy&quot;]/i[@class=&quot;_585_&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

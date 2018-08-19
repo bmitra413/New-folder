@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Java (java)  Twitter</name>
+   <tag></tag>
+   <elementGuidId>62e08dd4-8821-4af9-a0e7-e0fd56ade4ad</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://twitter.com/java?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ping</name>
+      <type>Main</type>
+      <value>/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://twitter.com/java%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&amp;ved=2ahUKEwjPl_nxltncAhXYXSsKHQFFAVcQ6F4wAXoECAMQAg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Java (@java) · Twitter</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;bkWMgd&quot;]/div[1]/div[@class=&quot;g&quot;]/g-section-with-header[1]/div[@class=&quot;e2BEnf&quot;]/div[@class=&quot;otisdd&quot;]/div[@class=&quot;DOqJne&quot;]/h3[@class=&quot;r&quot;]/div[@class=&quot;zTpPx&quot;]/g-link[1]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>
